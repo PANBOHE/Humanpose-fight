@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AlphAction
 
 AlphAction aims to detect the actions of multiple persons in videos. It is 
