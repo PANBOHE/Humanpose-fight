@@ -29,7 +29,7 @@ def main():
     )
     parser.add_argument(
         "--video-path",
-        default="input.mp4",
+        default="./testvideo/test001.mp4",
         help="The path to the input video",
         type=str,
     )
